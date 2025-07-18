@@ -1,2 +1,2 @@
 # Insurance_Claim_BPMN
-Life Insurance Claim Processes Project: AS-IS and TO-BE models for insurance claims using data for optimization.
+This is a BPMN project report that examines and redesigns a branch-level life insurance claims processes. The analysis revealed inefficiencies and manual bottlenecks in a the current processes that hinders customer experience. A new, process that heavily relied on a claim management system embedded with consolidated key national database was proposed to streamline operations, eliminate waste, and enhance both efficiency and customer experience
